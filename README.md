@@ -25,7 +25,7 @@ My name is Diogo and I'm from Porto, Portugal!
 ### Social
 <p>
   <a href="https://www.linkedin.com/in/diogo-mendes-55600726a">
-    <img src="https://github.com/user-attachments/assets/7edabe2e-807a-4353-b31a-f65b241b6048" alt="image">
+    <img src="https://github.com/user-attachments/assets/7edabe2e-807a-4353-b31a-f65b241b6048" alt="image" width="40" height="40">
   </a>
 </p>
 
