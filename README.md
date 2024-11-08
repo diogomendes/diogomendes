@@ -8,7 +8,7 @@ My name is Diogo and I'm from Porto, Portugal!
 📖 Over the course of my studies, I've build a strong passion for fields such as: Machine Learning, Reinforcement Learning, Autonomous Driving and Computer Vision.
 
 ### Programming Skills
-<p align="center">
+<p
   <img src="https://github.com/user-attachments/assets/7524cde3-f38b-4ffa-96ba-f4fcdc2dbbac" width="40" height="40">
   <img src="https://github.com/user-attachments/assets/4dd11d3c-dcc1-492e-8f9b-8edec3955b43" width="40" height="40">
   <img src="https://github.com/user-attachments/assets/865f5b5d-1c9d-48dc-ae36-b81afaf722c1" width="40" height="40">
