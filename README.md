@@ -23,9 +23,12 @@ My name is Diogo and I'm from Porto, Portugal!
 
 
 ### Social
-<p
-[![image](https://github.com/user-attachments/assets/7edabe2e-807a-4353-b31a-f65b241b6048)](www.linkedin.com/in/diogo-mendes-55600726a)
+<p>
+  <a href="https://www.linkedin.com/in/diogo-mendes-55600726a">
+    <img src="https://github.com/user-attachments/assets/7edabe2e-807a-4353-b31a-f65b241b6048" alt="image">
+  </a>
 </p>
+
 
 <!--
 **diogomendes/diogomendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
